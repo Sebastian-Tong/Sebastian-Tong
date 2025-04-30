@@ -5,7 +5,7 @@ We are hiring！！！
 
 🏷️C++开发：低延迟系统开发、交易系统开发、交易执行开发、infra、运维...
 
-🏷️研究：因子、deep learning model、组合优化
+🏷️研究：因子、Deep Learning model、组合优化
 
 关于我们：
 
@@ -17,7 +17,7 @@ We are hiring！！！
 
 🌟我们提供国内量化第一梯队的薪酬福利，为最顶尖的人才提供行业 Top 回报。
 
-wechat：Sebastian_Tong
+Wechat：Sebastian_Tong
 
 📮email：yhe@zding.fund
 
