@@ -1,5 +1,10 @@
 ## Hi there 👋
+关于我们：
+正定私募，高频自营起家，目前自营+资管，资管规模100亿+，处于快速发展阶段；公司人数80+，研究:开发比列=1:2；小而精的团队，包括IOI金牌，ASC超算冠军，华为天才少年，莫队算法等
 
+2024年起逐步迈向全球金融市场，开启全球化发展战略，目前业务覆盖亚太、北美等市场，包括期货、股票等标的
+
+https://www.zding.fund/，可以看下我们公司官网
 <!--
 **Sebastian-Tong/Sebastian-Tong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
